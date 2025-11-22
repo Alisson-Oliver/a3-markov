@@ -2,10 +2,10 @@
 
 ## Apresentação da Equipe
 
-|  Componente  | Nome Completo                       |     RA     |
-| :----------: | :---------------------------------- | :--------: |
-| Integrante 1 | **Alisson Lucas Alves de Oliveira** | 1272322139 |
-| Integrante 2 | **Alisson Bezerra Brito**    |  1272326397 |
+| Nome Completo                       |     RA     |
+| :---------------------------------- | :--------: |
+| **Alisson Lucas Alves de Oliveira** | 1272322139 |
+| **Alisson Bezerra Brito**    |  1272326397 |
 
 ---
 
