@@ -1,7 +1,5 @@
 module UtilModel
 
-using LinearAlgebra
-
 function validar_matriz(matriz)
     for (i, linha) in enumerate(eachrow(matriz))
         if sum(linha) != 1
